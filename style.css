@@ -1,0 +1,29 @@
+body {
+    color: hotpink;
+    font-family: 'comic', sans-serif;
+}
+
+html {
+    background-color: pink;
+}
+
+html {
+    text-align: center;
+}
+img {
+    border-radius: 60% / 60%;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+img {
+    border-width:5px;
+    border-color: hotpink;
+    border-style:solid; 
+}
+
+
